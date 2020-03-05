@@ -7,7 +7,7 @@ class Navigation extends React.Component{
         return(
              <div>
                  <NavLink to="/"></NavLink>
-                 <NavLink to="/book1">Two states</NavLink>
+                 <NavLink to="/book1">Two states hELLO</NavLink>
                  <NavLink to="/book2">I too had a love story</NavLink>
                  <NavLink to="/book3">Goddan</NavLink>
                  <NavLink to="/book4">Carrie</NavLink>
